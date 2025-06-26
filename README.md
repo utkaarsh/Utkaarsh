@@ -59,7 +59,7 @@ Redux, Tailwind CSS, JWT Authentication, Webpack, Microservices, WebSockets, Mon
 - Developed a real-time chat and connection platform for developers.
 - Built JWT-secured REST APIs with MongoDB and Express.
 - Deployed on **AWS EC2** with custom domains and SSL via NGINX.
-[🔗 View Repository for Backend](https://github.com/utkaarsh/devBumble-backend)
+[🔗 View Repository](https://github.com/utkaarsh/devBumble-backend)
 
 
 ### 🎥 Cinema GPT – AI-Powered Movie Recommendation App
