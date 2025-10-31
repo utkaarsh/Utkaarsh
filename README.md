@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Utkarsh Ranpise
 
-**Software Engineer | Full Stack Developer | Cloud Enthusiast | Real-time App Specialist**
+**Software Engineer | Full Stack Developer | Javascript Enthusiast **
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/utkarsh-ranpise/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/utkaarsh)
