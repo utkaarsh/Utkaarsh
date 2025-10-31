@@ -53,7 +53,7 @@ Redux, Tailwind CSS, JWT Authentication, Webpack, Microservices, WebSockets, Mon
 
 ---
 
-## 💻 Notable Projects
+## 💻 Projects
 
 ### 🐝 DevBumble – Social Connection Platform (Node.js, Socket.io, AWS)
 - Developed a real-time chat and connection platform for developers.
@@ -84,7 +84,6 @@ Redux, Tailwind CSS, JWT Authentication, Webpack, Microservices, WebSockets, Mon
 
 ## 🧑‍🏫 Certifications
 
-- **Node.js – Backend Masterclass** (NamasteDev, 2023)
 - **Modern React with Redux** (Udemy, 2023)
 - **AWS Academy Graduate:** Cloud Foundations (AWS Academy)
 
