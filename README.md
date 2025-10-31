@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Utkarsh Ranpise
 
-**Software Engineer | Full Stack Developer | Cloud Enthusiast | Real-time App Specialist**
+**Software Engineer | Full Stack Developer | Javascript Enthusiast | Real-time App Specialist**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/utkarsh-ranpise/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/utkaarsh)
@@ -53,7 +53,7 @@ Redux, Tailwind CSS, JWT Authentication, Webpack, Microservices, WebSockets, Mon
 
 ---
 
-## 💻 Notable Projects
+## 💻 Projects
 
 ### 🐝 DevBumble – Social Connection Platform (Node.js, Socket.io, AWS)
 - Developed a real-time chat and connection platform for developers.
@@ -84,7 +84,6 @@ Redux, Tailwind CSS, JWT Authentication, Webpack, Microservices, WebSockets, Mon
 
 ## 🧑‍🏫 Certifications
 
-- **Node.js – Backend Masterclass** (NamasteDev, 2023)
 - **Modern React with Redux** (Udemy, 2023)
 - **AWS Academy Graduate:** Cloud Foundations (AWS Academy)
 
