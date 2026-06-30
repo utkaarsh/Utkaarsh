@@ -33,7 +33,7 @@ Redux, Tailwind CSS, JWT Authentication, Webpack, Microservices, WebSockets, Mon
 
 ## 🏆 Work Experience
 ### Software Developer  
-**Blaccsckull Platforms Pvt Ltd | July 2025 – Mar 2026** 
+**Binated | July 2025 – Mar 2026** 
 
 • Built a digital proofing platform from scratch in React 19 and Laravel — a multi-reviewer annotation platform with real
 time state management and consensus-based approval logic, contributing to a 30% revenue increase.
