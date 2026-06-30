@@ -48,11 +48,14 @@ Jira.
 **Blaccsckull Platforms Pvt Ltd | Mar 2024 – Mar 2025**  
 • Owned end-to-end React Native development of a dance competition platform — integrating native modules, optimizing
 mobile performance, and growing app downloads from 500 to 10K+ on iOS and Android.
+
 • Engineered a real-time judging dashboard in React Native with automated result computation — building a swipeable
 card component with optimised video playback that only renders the active performance and preloads the next 3,
 significantly reducing memory usage and buffering.
+
 • Built and maintained scalable Node.js RESTful APIs with JWT authentication, dynamic filtering, and pagination —
 reducing API response times by 25%.
+
 • Led a team of two junior developers, managed Android release builds via Expo EAS Build, and containerized the dev
 environment using Docker.
 
@@ -60,6 +63,7 @@ environment using Docker.
 **Cyberium | Aug 2022 – Apr 2023**  
 • Translated Figma designs into pixel-perfect React components using Tailwind CSS, ensuring design fidelity and
 responsive layouts across multiple production projects.
+
 • Built an admin analytics dashboard integrating Recharts and D3 for data visualisation supporting internal decision
 making
 
@@ -67,8 +71,10 @@ making
 **Smart Genesis | Feb 2022 – Aug 2022**  
 • Built the React.js frontend of SinghCoin — a Web3 social media platform with an NFT marketplace — setting up Redux
 architecture, routing, and route protection from scratch.
+
 • Developed core UI components including social feed, NFT cards, and a blog with likes, comments, and share
 functionality.
+
 • Integrated supporting RESTful APIs in Node.js and Express for feed filtering, blog interactions, and pagination.
 
 ---
