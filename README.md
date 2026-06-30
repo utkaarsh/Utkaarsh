@@ -40,7 +40,7 @@ time state management and consensus-based approval logic, contributing to a 30% 
 • Developed and owned multiple SaaS modules including admin dashboards, a client portal, and a full HRMS recruitment
 pipeline using React.js, RESTful APIs, and reusable component architecture
 • Contributed to Agile sprints with consistent delivery, improving team velocity by 40% and maintaining task visibility on
-Jira
+Jira.
 
 ### Software Development Engineer  
 **Blaccsckull Platforms Pvt Ltd | Mar 2024 – Mar 2025**  
