@@ -2,12 +2,13 @@
 # 👋 Hi, I'm Utkarsh Ranpise
 
 **Software Engineer | Full Stack Developer | Javascript Enthusiast **
-Check out my portfolio here:
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)]([https://your-portfolio.com](https://utkarsh-ranpise.vercel.app))  
+
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/utkarsh-ranpise/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/utkaarsh)
 
 ---
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)]([https://your-portfolio.com](https://utkarsh-ranpise.vercel.app)) 
 
 ## 🚀 About Me
 
