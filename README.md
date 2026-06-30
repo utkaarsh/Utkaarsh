@@ -8,7 +8,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/utkaarsh)
 
 ---
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)]([https://your-portfolio.com](https://utkarsh-ranpise.vercel.app)) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://utkarsh-ranpise.vercel.app)
 
 ## 🚀 About Me
 
